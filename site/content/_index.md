@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Fridge Coin"
+subtitle: Decentralised fundamentally backed token focused on revolutionizing Web 3.0
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
