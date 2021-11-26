@@ -1,7 +1,8 @@
 ---
 title: "Fridge Coin"
 subtitle: Decentralised fundamentally backed token focused on revolutionizing Web 3.0
-image: /img/home-jumbotron.jpg
+image: <img width="1366" alt="IMG_0305" src="https://user-images.githubusercontent.com/95084744/143590503-6d58d432-8c93-441d-918a-0a0e4b74b732.PNG">
+
 blurb:
     heading: Why Kaldi?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
